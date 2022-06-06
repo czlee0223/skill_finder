@@ -1,3 +1,4 @@
 notebook/Modelling/final_models_v2 
 notebook/Modelling/final_models
-
+notebook/data
+*.ipynb_checkpoints
