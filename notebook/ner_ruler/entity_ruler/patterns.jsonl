@@ -1,0 +1,1618 @@
+{"label":"PROGLANG","pattern":".QL"}
+{"label":"PROGLANG","pattern":"@Formula"}
+{"label":"PROGLANG","pattern":"A-0 System"}
+{"label":"PROGLANG","pattern":"A.NET"}
+{"label":"PROGLANG","pattern":"A+"}
+{"label":"PROGLANG","pattern":"ABAP"}
+{"label":"PROGLANG","pattern":"ABC"}
+{"label":"PROGLANG","pattern":"ABC ALGOL"}
+{"label":"PROGLANG","pattern":"ACC"}
+{"label":"PROGLANG","pattern":"Accent"}
+{"label":"PROGLANG","pattern":"Ace DASL"}
+{"label":"PROGLANG","pattern":"Action!"}
+{"label":"PROGLANG","pattern":"ActionScript"}
+{"label":"PROGLANG","pattern":"Actor"}
+{"label":"PROGLANG","pattern":"Ada"}
+{"label":"PROGLANG","pattern":"Adenine"}
+{"label":"PROGLANG","pattern":"AdvPL"}
+{"label":"PROGLANG","pattern":"Agda"}
+{"label":"PROGLANG","pattern":"Agilent VEE"}
+{"label":"PROGLANG","pattern":"Agora"}
+{"label":"PROGLANG","pattern":"AIMMS"}
+{"label":"PROGLANG","pattern":"Aldor"}
+{"label":"PROGLANG","pattern":"Alef"}
+{"label":"PROGLANG","pattern":"ALF"}
+{"label":"PROGLANG","pattern":"ALGOL 58"}
+{"label":"PROGLANG","pattern":"ALGOL 60"}
+{"label":"PROGLANG","pattern":"ALGOL 68"}
+{"label":"PROGLANG","pattern":"ALGOL W"}
+{"label":"PROGLANG","pattern":"Alice"}
+{"label":"PROGLANG","pattern":"Alma-0"}
+{"label":"PROGLANG","pattern":"AmbientTalk"}
+{"label":"PROGLANG","pattern":"Amiga E"}
+{"label":"PROGLANG","pattern":"AMOS"}
+{"label":"PROGLANG","pattern":"AMPL"}
+{"label":"PROGLANG","pattern":"Analitik"}
+{"label":"PROGLANG","pattern":"AngelScript"}
+{"label":"PROGLANG","pattern":"Apache Pig latin"}
+{"label":"PROGLANG","pattern":"Apex"}
+{"label":"PROGLANG","pattern":"APL"}
+{"label":"PROGLANG","pattern":"App Inventor for Android's visual block language"}
+{"label":"PROGLANG","pattern":"AppleScript"}
+{"label":"PROGLANG","pattern":"APT"}
+{"label":"PROGLANG","pattern":"Arc"}
+{"label":"PROGLANG","pattern":"ARexx"}
+{"label":"PROGLANG","pattern":"Argus"}
+{"label":"PROGLANG","pattern":"Assembly language"}
+{"label":"PROGLANG","pattern":"AutoIt"}
+{"label":"PROGLANG","pattern":"AutoLISP / Visual LISP"}
+{"label":"PROGLANG","pattern":"Averest"}
+{"label":"PROGLANG","pattern":"AWK"}
+{"label":"PROGLANG","pattern":"Axum"}
+{"label":"PROGLANG","pattern":"Babbage"}
+{"label":"PROGLANG","pattern":"Ballerina"}
+{"label":"PROGLANG","pattern":"Bash"}
+{"label":"PROGLANG","pattern":"Batch file"}
+{"label":"PROGLANG","pattern":"BCPL"}
+{"label":"PROGLANG","pattern":"BeanShell"}
+{"label":"PROGLANG","pattern":"Bertrand"}
+{"label":"PROGLANG","pattern":"BETA"}
+{"label":"PROGLANG","pattern":"BLISS"}
+{"label":"PROGLANG","pattern":"Blockly"}
+{"label":"PROGLANG","pattern":"BlooP"}
+{"label":"PROGLANG","pattern":"Boo"}
+{"label":"PROGLANG","pattern":"Boomerang"}
+{"label":"PROGLANG","pattern":"Bosque"}
+{"label":"PROGLANG","pattern":"Bucket"}
+{"label":"PROGLANG","pattern":"C"}
+{"label":"PROGLANG","pattern":"C \u2013 ISO/IEC 9899"}
+{"label":"PROGLANG","pattern":"C Shell"}
+{"label":"PROGLANG","pattern":"C--"}
+{"label":"PROGLANG","pattern":"C*"}
+{"label":"PROGLANG","pattern":"C/AL"}
+{"label":"PROGLANG","pattern":"C#"}
+{"label":"PROGLANG","pattern":"C++"}
+{"label":"PROGLANG","pattern":"Cach\u00e9 ObjectScript"}
+{"label":"PROGLANG","pattern":"Caml"}
+{"label":"PROGLANG","pattern":"Cayenne"}
+{"label":"PROGLANG","pattern":"CDuce"}
+{"label":"PROGLANG","pattern":"Cecil"}
+{"label":"PROGLANG","pattern":"CEEMAC"}
+{"label":"PROGLANG","pattern":"CESIL"}
+{"label":"PROGLANG","pattern":"C\u00e9u"}
+{"label":"PROGLANG","pattern":"Ceylon"}
+{"label":"PROGLANG","pattern":"CFEngine"}
+{"label":"PROGLANG","pattern":"Chapel"}
+{"label":"PROGLANG","pattern":"Charm"}
+{"label":"PROGLANG","pattern":"CHILL"}
+{"label":"PROGLANG","pattern":"CHIP-8"}
+{"label":"PROGLANG","pattern":"ChucK"}
+{"label":"PROGLANG","pattern":"Cilk"}
+{"label":"PROGLANG","pattern":"Claire"}
+{"label":"PROGLANG","pattern":"Clarion"}
+{"label":"PROGLANG","pattern":"Clipper"}
+{"label":"PROGLANG","pattern":"CLIPS"}
+{"label":"PROGLANG","pattern":"CLIST"}
+{"label":"PROGLANG","pattern":"Clojure"}
+{"label":"PROGLANG","pattern":"CLU"}
+{"label":"PROGLANG","pattern":"CMS EXEC"}
+{"label":"PROGLANG","pattern":"CMS-2"}
+{"label":"PROGLANG","pattern":"COBOL \u2013 ISO/IEC 1989"}
+{"label":"PROGLANG","pattern":"CobolScript \u2013 COBOL Scripting language"}
+{"label":"PROGLANG","pattern":"Cobra"}
+{"label":"PROGLANG","pattern":"CoffeeScript"}
+{"label":"PROGLANG","pattern":"ColdFusion"}
+{"label":"PROGLANG","pattern":"COMAL"}
+{"label":"PROGLANG","pattern":"COMIT"}
+{"label":"PROGLANG","pattern":"Common Intermediate Language"}
+{"label":"PROGLANG","pattern":"Common Lisp"}
+{"label":"PROGLANG","pattern":"COMPASS"}
+{"label":"PROGLANG","pattern":"Component Pascal"}
+{"label":"PROGLANG","pattern":"COMTRAN"}
+{"label":"PROGLANG","pattern":"Constraint Handling Rules"}
+{"label":"PROGLANG","pattern":"Control Language"}
+{"label":"PROGLANG","pattern":"Cool"}
+{"label":"PROGLANG","pattern":"Coral 66"}
+{"label":"PROGLANG","pattern":"CorVision"}
+{"label":"PROGLANG","pattern":"COWSEL"}
+{"label":"PROGLANG","pattern":"CPL"}
+{"label":"PROGLANG","pattern":"Cryptol"}
+{"label":"PROGLANG","pattern":"Crystal"}
+{"label":"PROGLANG","pattern":"Csound"}
+{"label":"PROGLANG","pattern":"Cuneiform"}
+{"label":"PROGLANG","pattern":"Curl"}
+{"label":"PROGLANG","pattern":"Curry"}
+{"label":"PROGLANG","pattern":"Cybil"}
+{"label":"PROGLANG","pattern":"Cyclone"}
+{"label":"PROGLANG","pattern":"Cypher Query Language"}
+{"label":"PROGLANG","pattern":"Cython="}
+{"label":"PROGLANG","pattern":"Dart"}
+{"label":"PROGLANG","pattern":"Darwin"}
+{"label":"PROGLANG","pattern":"DataFlex"}
+{"label":"PROGLANG","pattern":"Datalog"}
+{"label":"PROGLANG","pattern":"DATATRIEVE"}
+{"label":"PROGLANG","pattern":"DAX"}
+{"label":"PROGLANG","pattern":"dBase"}
+{"label":"PROGLANG","pattern":"DCL"}
+{"label":"PROGLANG","pattern":"Delphi"}
+{"label":"PROGLANG","pattern":"DIBOL"}
+{"label":"PROGLANG","pattern":"DinkC"}
+{"label":"PROGLANG","pattern":"Dog"}
+{"label":"PROGLANG","pattern":"Draco"}
+{"label":"PROGLANG","pattern":"DRAKON"}
+{"label":"PROGLANG","pattern":"Dylan"}
+{"label":"PROGLANG","pattern":"DYNAMO"}
+{"label":"PROGLANG","pattern":"Easy PL/I"}
+{"label":"PROGLANG","pattern":"ECMAScript"}
+{"label":"PROGLANG","pattern":"Edinburgh IMP"}
+{"label":"PROGLANG","pattern":"EGL"}
+{"label":"PROGLANG","pattern":"Eiffel"}
+{"label":"PROGLANG","pattern":"ELAN"}
+{"label":"PROGLANG","pattern":"Elixir"}
+{"label":"PROGLANG","pattern":"Elm"}
+{"label":"PROGLANG","pattern":"Emacs Lisp"}
+{"label":"PROGLANG","pattern":"Emerald"}
+{"label":"PROGLANG","pattern":"Epigram"}
+{"label":"PROGLANG","pattern":"EPL"}
+{"label":"PROGLANG","pattern":"EPL"}
+{"label":"PROGLANG","pattern":"Erlang"}
+{"label":"PROGLANG","pattern":"Escher"}
+{"label":"PROGLANG","pattern":"ESPOL"}
+{"label":"PROGLANG","pattern":"Esterel"}
+{"label":"PROGLANG","pattern":"Etoys"}
+{"label":"PROGLANG","pattern":"Euclid"}
+{"label":"PROGLANG","pattern":"Euler"}
+{"label":"PROGLANG","pattern":"Euphoria"}
+{"label":"PROGLANG","pattern":"EusLisp Robot Programming Language"}
+{"label":"PROGLANG","pattern":"EXEC 2"}
+{"label":"PROGLANG","pattern":"Executable UML"}
+{"label":"PROGLANG","pattern":"Ezhil"}
+{"label":"PROGLANG","pattern":"F-Script"}
+{"label":"PROGLANG","pattern":"F*"}
+{"label":"PROGLANG","pattern":"F#"}
+{"label":"PROGLANG","pattern":"Fantom"}
+{"label":"PROGLANG","pattern":"FAUST"}
+{"label":"PROGLANG","pattern":"FFP"}
+{"label":"PROGLANG","pattern":"fish"}
+{"label":"PROGLANG","pattern":"Fj\u00f6lnir"}
+{"label":"PROGLANG","pattern":"FL"}
+{"label":"PROGLANG","pattern":"FlagShip"}
+{"label":"PROGLANG","pattern":"Flavors"}
+{"label":"PROGLANG","pattern":"Flex"}
+{"label":"PROGLANG","pattern":"Flix"}
+{"label":"PROGLANG","pattern":"FlooP"}
+{"label":"PROGLANG","pattern":"FLOW-MATIC"}
+{"label":"PROGLANG","pattern":"FOCAL"}
+{"label":"PROGLANG","pattern":"FOIL"}
+{"label":"PROGLANG","pattern":"FORMAC"}
+{"label":"PROGLANG","pattern":"Fortran \u2013 ISO/IEC 1539"}
+{"label":"PROGLANG","pattern":"Fortress"}
+{"label":"PROGLANG","pattern":"FoxBase/FoxPro"}
+{"label":"PROGLANG","pattern":"FP"}
+{"label":"PROGLANG","pattern":"Franz Lisp"}
+{"label":"PROGLANG","pattern":"Futhark"}
+{"label":"PROGLANG","pattern":"G-code"}
+{"label":"PROGLANG","pattern":"Game Maker Language"}
+{"label":"PROGLANG","pattern":"GameMonkey Script"}
+{"label":"PROGLANG","pattern":"GAMS"}
+{"label":"PROGLANG","pattern":"GAP"}
+{"label":"PROGLANG","pattern":"GDL"}
+{"label":"PROGLANG","pattern":"GDScript"}
+{"label":"PROGLANG","pattern":"Genie"}
+{"label":"PROGLANG","pattern":"GEORGE"}
+{"label":"PROGLANG","pattern":"GLSL"}
+{"label":"PROGLANG","pattern":"GNU E"}
+{"label":"PROGLANG","pattern":"GNU Guile"}
+{"label":"PROGLANG","pattern":"Go"}
+{"label":"PROGLANG","pattern":"G\u00f6del"}
+{"label":"PROGLANG","pattern":"Golo"}
+{"label":"PROGLANG","pattern":"GOM"}
+{"label":"PROGLANG","pattern":"Google Apps Script"}
+{"label":"PROGLANG","pattern":"Gosu"}
+{"label":"PROGLANG","pattern":"GOTRAN"}
+{"label":"PROGLANG","pattern":"GPSS"}
+{"label":"PROGLANG","pattern":"GraphTalk"}
+{"label":"PROGLANG","pattern":"GRASS"}
+{"label":"PROGLANG","pattern":"Grasshopper"}
+{"label":"PROGLANG","pattern":"Groovy"}
+{"label":"PROGLANG","pattern":"Hack"}
+{"label":"PROGLANG","pattern":"HAGGIS"}
+{"label":"PROGLANG","pattern":"HAL/S"}
+{"label":"PROGLANG","pattern":"Halide"}
+{"label":"PROGLANG","pattern":"Hamilton C shell"}
+{"label":"PROGLANG","pattern":"Harbour"}
+{"label":"PROGLANG","pattern":"Hartmann pipelines"}
+{"label":"PROGLANG","pattern":"Haskell"}
+{"label":"PROGLANG","pattern":"Haxe"}
+{"label":"PROGLANG","pattern":"Hermes"}
+{"label":"PROGLANG","pattern":"High Level Assembly"}
+{"label":"PROGLANG","pattern":"HLSL"}
+{"label":"PROGLANG","pattern":"Hollywood"}
+{"label":"PROGLANG","pattern":"HolyC"}
+{"label":"PROGLANG","pattern":"Hop"}
+{"label":"PROGLANG","pattern":"Hopscotch"}
+{"label":"PROGLANG","pattern":"Hume"}
+{"label":"PROGLANG","pattern":"HyperTalk"}
+{"label":"PROGLANG","pattern":"IBM Basic assembly language"}
+{"label":"PROGLANG","pattern":"IBM HAScript"}
+{"label":"PROGLANG","pattern":"IBM Informix-4GL"}
+{"label":"PROGLANG","pattern":"IBM RPG"}
+{"label":"PROGLANG","pattern":"Icon"}
+{"label":"PROGLANG","pattern":"IDL"}
+{"label":"PROGLANG","pattern":"Idris"}
+{"label":"PROGLANG","pattern":"Io"}
+{"label":"PROGLANG","pattern":"ISLISP"}
+{"label":"PROGLANG","pattern":"J#"}
+{"label":"PROGLANG","pattern":"J++"}
+{"label":"PROGLANG","pattern":"JADE"}
+{"label":"PROGLANG","pattern":"Jai"}
+{"label":"PROGLANG","pattern":"JAL"}
+{"label":"PROGLANG","pattern":"Janus"}
+{"label":"PROGLANG","pattern":"Janus"}
+{"label":"PROGLANG","pattern":"JASS"}
+{"label":"PROGLANG","pattern":"Java"}
+{"label":"PROGLANG","pattern":"JavaFX Script"}
+{"label":"PROGLANG","pattern":"JavaScript"}
+{"label":"PROGLANG","pattern":"JCL"}
+{"label":"PROGLANG","pattern":"JEAN"}
+{"label":"PROGLANG","pattern":"Jess"}
+{"label":"PROGLANG","pattern":"Join Java"}
+{"label":"PROGLANG","pattern":"JOSS"}
+{"label":"PROGLANG","pattern":"Joule"}
+{"label":"PROGLANG","pattern":"JOVIAL"}
+{"label":"PROGLANG","pattern":"Joy"}
+{"label":"PROGLANG","pattern":"JScript"}
+{"label":"PROGLANG","pattern":"JScript .NET"}
+{"label":"PROGLANG","pattern":"Julia"}
+{"label":"PROGLANG","pattern":"Jython"}
+{"label":"PROGLANG","pattern":"Kaleidoscope"}
+{"label":"PROGLANG","pattern":"Karel"}
+{"label":"PROGLANG","pattern":"KEE"}
+{"label":"PROGLANG","pattern":"KIF"}
+{"label":"PROGLANG","pattern":"Kixtart"}
+{"label":"PROGLANG","pattern":"Klerer-May System"}
+{"label":"PROGLANG","pattern":"Kodu"}
+{"label":"PROGLANG","pattern":"Kojo"}
+{"label":"PROGLANG","pattern":"KornShell"}
+{"label":"PROGLANG","pattern":"Kotlin"}
+{"label":"PROGLANG","pattern":"KRC"}
+{"label":"PROGLANG","pattern":"KRL"}
+{"label":"PROGLANG","pattern":"KRL"}
+{"label":"PROGLANG","pattern":"KRYPTON"}
+{"label":"PROGLANG","pattern":"Kv"}
+{"label":"PROGLANG","pattern":"LabVIEW"}
+{"label":"PROGLANG","pattern":"Ladder"}
+{"label":"PROGLANG","pattern":"Language H"}
+{"label":"PROGLANG","pattern":"LANSA"}
+{"label":"PROGLANG","pattern":"Lasso"}
+{"label":"PROGLANG","pattern":"Lava"}
+{"label":"PROGLANG","pattern":"LC-3"}
+{"label":"PROGLANG","pattern":"Lean"}
+{"label":"PROGLANG","pattern":"Legoscript"}
+{"label":"PROGLANG","pattern":"Lexico"}
+{"label":"PROGLANG","pattern":"LIL"}
+{"label":"PROGLANG","pattern":"LilyPond"}
+{"label":"PROGLANG","pattern":"Limbo"}
+{"label":"PROGLANG","pattern":"Limnor"}
+{"label":"PROGLANG","pattern":"LINC"}
+{"label":"PROGLANG","pattern":"Lingo"}
+{"label":"PROGLANG","pattern":"LINQ"}
+{"label":"PROGLANG","pattern":"LIS"}
+{"label":"PROGLANG","pattern":"LISA"}
+{"label":"PROGLANG","pattern":"Lisp \u2013 ISO/IEC 13816"}
+{"label":"PROGLANG","pattern":"Lite-C"}
+{"label":"PROGLANG","pattern":"Lithe"}
+{"label":"PROGLANG","pattern":"Little b"}
+{"label":"PROGLANG","pattern":"LiveCode"}
+{"label":"PROGLANG","pattern":"LiveScript"}
+{"label":"PROGLANG","pattern":"LLL"}
+{"label":"PROGLANG","pattern":"Logo"}
+{"label":"PROGLANG","pattern":"Logtalk"}
+{"label":"PROGLANG","pattern":"LotusScript"}
+{"label":"PROGLANG","pattern":"LPC"}
+{"label":"PROGLANG","pattern":"LSE"}
+{"label":"PROGLANG","pattern":"LSL"}
+{"label":"PROGLANG","pattern":"Lua"}
+{"label":"PROGLANG","pattern":"Lucid"}
+{"label":"PROGLANG","pattern":"Lustre"}
+{"label":"PROGLANG","pattern":"LYaPAS"}
+{"label":"PROGLANG","pattern":"Lynx"}
+{"label":"PROGLANG","pattern":"M Formula language"}
+{"label":"PROGLANG","pattern":"M#"}
+{"label":"PROGLANG","pattern":"M2001"}
+{"label":"PROGLANG","pattern":"M4"}
+{"label":"PROGLANG","pattern":"Machine code"}
+{"label":"PROGLANG","pattern":"MAD"}
+{"label":"PROGLANG","pattern":"MAD/I"}
+{"label":"PROGLANG","pattern":"Magik"}
+{"label":"PROGLANG","pattern":"Magma"}
+{"label":"PROGLANG","pattern":"M\u00e1ni"}
+{"label":"PROGLANG","pattern":"Maple"}
+{"label":"PROGLANG","pattern":"MAPPER"}
+{"label":"PROGLANG","pattern":"MARK-IV"}
+{"label":"PROGLANG","pattern":"Mary"}
+{"label":"PROGLANG","pattern":"MASM Microsoft Assembly x86"}
+{"label":"PROGLANG","pattern":"MATH-MATIC"}
+{"label":"PROGLANG","pattern":"MATLAB"}
+{"label":"PROGLANG","pattern":"Maude system"}
+{"label":"PROGLANG","pattern":"Max"}
+{"label":"PROGLANG","pattern":"Maxima"}
+{"label":"PROGLANG","pattern":"MaxScript internal language 3D Studio Max"}
+{"label":"PROGLANG","pattern":"Maya"}
+{"label":"PROGLANG","pattern":"MDL"}
+{"label":"PROGLANG","pattern":"Mercury"}
+{"label":"PROGLANG","pattern":"Mesa"}
+{"label":"PROGLANG","pattern":"MHEG-5"}
+{"label":"PROGLANG","pattern":"Microcode"}
+{"label":"PROGLANG","pattern":"MicroScript"}
+{"label":"PROGLANG","pattern":"Microsoft Power Fx"}
+{"label":"PROGLANG","pattern":"MIIS"}
+{"label":"PROGLANG","pattern":"Milk"}
+{"label":"PROGLANG","pattern":"MIMIC"}
+{"label":"PROGLANG","pattern":"Mirah"}
+{"label":"PROGLANG","pattern":"Miranda"}
+{"label":"PROGLANG","pattern":"MIVA Script"}
+{"label":"PROGLANG","pattern":"Model 204"}
+{"label":"PROGLANG","pattern":"Modelica"}
+{"label":"PROGLANG","pattern":"Modula"}
+{"label":"PROGLANG","pattern":"Modula-2"}
+{"label":"PROGLANG","pattern":"Modula-3"}
+{"label":"PROGLANG","pattern":"Mohol"}
+{"label":"PROGLANG","pattern":"MOO"}
+{"label":"PROGLANG","pattern":"Mortran"}
+{"label":"PROGLANG","pattern":"Mouse"}
+{"label":"PROGLANG","pattern":"MPD"}
+{"label":"PROGLANG","pattern":"MSL"}
+{"label":"PROGLANG","pattern":"MUMPS"}
+{"label":"PROGLANG","pattern":"MuPAD"}
+{"label":"PROGLANG","pattern":"Mutan"}
+{"label":"PROGLANG","pattern":"Mystic Programming Language"}
+{"label":"PROGLANG","pattern":"Napier88"}
+{"label":"PROGLANG","pattern":"NASM"}
+{"label":"PROGLANG","pattern":"Neko"}
+{"label":"PROGLANG","pattern":"Nemerle"}
+{"label":"PROGLANG","pattern":"NESL"}
+{"label":"PROGLANG","pattern":"Net.Data"}
+{"label":"PROGLANG","pattern":"NetLogo"}
+{"label":"PROGLANG","pattern":"NetRexx"}
+{"label":"PROGLANG","pattern":"NewLISP"}
+{"label":"PROGLANG","pattern":"NEWP"}
+{"label":"PROGLANG","pattern":"Newspeak"}
+{"label":"PROGLANG","pattern":"NewtonScript"}
+{"label":"PROGLANG","pattern":"Nial"}
+{"label":"PROGLANG","pattern":"Nickle"}
+{"label":"PROGLANG","pattern":"Nim"}
+{"label":"PROGLANG","pattern":"Nix"}
+{"label":"PROGLANG","pattern":"Not eXactly C"}
+{"label":"PROGLANG","pattern":"Not Quite C"}
+{"label":"PROGLANG","pattern":"NPL"}
+{"label":"PROGLANG","pattern":"NSIS"}
+{"label":"PROGLANG","pattern":"Nu"}
+{"label":"PROGLANG","pattern":"NWScript"}
+{"label":"PROGLANG","pattern":"NXT-G"}
+{"label":"PROGLANG","pattern":"o:XML"}
+{"label":"PROGLANG","pattern":"Oak"}
+{"label":"PROGLANG","pattern":"Oberon"}
+{"label":"PROGLANG","pattern":"OBJ2"}
+{"label":"PROGLANG","pattern":"Object Lisp"}
+{"label":"PROGLANG","pattern":"Object Pascal"}
+{"label":"PROGLANG","pattern":"Object REXX"}
+{"label":"PROGLANG","pattern":"Objective-C"}
+{"label":"PROGLANG","pattern":"Objective-J"}
+{"label":"PROGLANG","pattern":"ObjectLOGO"}
+{"label":"PROGLANG","pattern":"Obliq"}
+{"label":"PROGLANG","pattern":"OCaml"}
+{"label":"PROGLANG","pattern":"occam"}
+{"label":"PROGLANG","pattern":"occam-\u03c0"}
+{"label":"PROGLANG","pattern":"Octave"}
+{"label":"PROGLANG","pattern":"OmniMark"}
+{"label":"PROGLANG","pattern":"Opa"}
+{"label":"PROGLANG","pattern":"Opal"}
+{"label":"PROGLANG","pattern":"Open Programming Language"}
+{"label":"PROGLANG","pattern":"OpenCL"}
+{"label":"PROGLANG","pattern":"OpenEdge Advanced Business Language"}
+{"label":"PROGLANG","pattern":"OpenVera"}
+{"label":"PROGLANG","pattern":"OPS5"}
+{"label":"PROGLANG","pattern":"OptimJ"}
+{"label":"PROGLANG","pattern":"Orc"}
+{"label":"PROGLANG","pattern":"ORCA/Modula-2"}
+{"label":"PROGLANG","pattern":"Oriel"}
+{"label":"PROGLANG","pattern":"Orwell"}
+{"label":"PROGLANG","pattern":"Oxygene"}
+{"label":"PROGLANG","pattern":"Oz"}
+{"label":"PROGLANG","pattern":"P\u2032\u2032"}
+{"label":"PROGLANG","pattern":"P4"}
+{"label":"PROGLANG","pattern":"ParaSail"}
+{"label":"PROGLANG","pattern":"PARI/GP"}
+{"label":"PROGLANG","pattern":"Pascal \u2013 ISO 7185"}
+{"label":"PROGLANG","pattern":"Pascal Script"}
+{"label":"PROGLANG","pattern":"PCASTL"}
+{"label":"PROGLANG","pattern":"PCF"}
+{"label":"PROGLANG","pattern":"PDL"}
+{"label":"PROGLANG","pattern":"PEARL"}
+{"label":"PROGLANG","pattern":"PeopleCode"}
+{"label":"PROGLANG","pattern":"Perl"}
+{"label":"PROGLANG","pattern":"Pharo"}
+{"label":"PROGLANG","pattern":"PHP"}
+{"label":"PROGLANG","pattern":"Pico"}
+{"label":"PROGLANG","pattern":"Picolisp"}
+{"label":"PROGLANG","pattern":"Pict"}
+{"label":"PROGLANG","pattern":"Pike"}
+{"label":"PROGLANG","pattern":"PILOT"}
+{"label":"PROGLANG","pattern":"Pizza"}
+{"label":"PROGLANG","pattern":"PL-11"}
+{"label":"PROGLANG","pattern":"PL/0"}
+{"label":"PROGLANG","pattern":"PL/B"}
+{"label":"PROGLANG","pattern":"PL/C"}
+{"label":"PROGLANG","pattern":"PL/I \u2013 ISO 6160"}
+{"label":"PROGLANG","pattern":"PL/M"}
+{"label":"PROGLANG","pattern":"PL/P"}
+{"label":"PROGLANG","pattern":"PL/S"}
+{"label":"PROGLANG","pattern":"PL/SQL"}
+{"label":"PROGLANG","pattern":"PL360"}
+{"label":"PROGLANG","pattern":"PLANC"}
+{"label":"PROGLANG","pattern":"Plankalk\u00fcl"}
+{"label":"PROGLANG","pattern":"Planner"}
+{"label":"PROGLANG","pattern":"PLEX"}
+{"label":"PROGLANG","pattern":"PLEXIL"}
+{"label":"PROGLANG","pattern":"POP-11"}
+{"label":"PROGLANG","pattern":"POP-2"}
+{"label":"PROGLANG","pattern":"PortablE"}
+{"label":"PROGLANG","pattern":"PostScript"}
+{"label":"PROGLANG","pattern":"POV-Ray SDL"}
+{"label":"PROGLANG","pattern":"PowerBuilder \u2013 4GL GUI application generator from Sybase"}
+{"label":"PROGLANG","pattern":"Powerhouse"}
+{"label":"PROGLANG","pattern":"PowerShell"}
+{"label":"PROGLANG","pattern":"PPL"}
+{"label":"PROGLANG","pattern":"Pro*C"}
+{"label":"PROGLANG","pattern":"Processing.js"}
+{"label":"PROGLANG","pattern":"Prograph"}
+{"label":"PROGLANG","pattern":"Project Verona"}
+{"label":"PROGLANG","pattern":"Prolog"}
+{"label":"PROGLANG","pattern":"PROMAL"}
+{"label":"PROGLANG","pattern":"Promela"}
+{"label":"PROGLANG","pattern":"PROSE modeling language"}
+{"label":"PROGLANG","pattern":"PROTEL"}
+{"label":"PROGLANG","pattern":"ProvideX"}
+{"label":"PROGLANG","pattern":"Pure"}
+{"label":"PROGLANG","pattern":"Pure Data"}
+{"label":"PROGLANG","pattern":"PureScript"}
+{"label":"PROGLANG","pattern":"Python"}
+{"label":"PROGLANG","pattern":"Q#"}
+{"label":"PROGLANG","pattern":"Qalb"}
+{"label":"PROGLANG","pattern":"QPL"}
+{"label":"PROGLANG","pattern":"QtScript"}
+{"label":"PROGLANG","pattern":"QuakeC"}
+{"label":"PROGLANG","pattern":"Quantum Computation Language"}
+{"label":"PROGLANG","pattern":"R"}
+{"label":"PROGLANG","pattern":"R++"}
+{"label":"PROGLANG","pattern":"Racket"}
+{"label":"PROGLANG","pattern":"Raku"}
+{"label":"PROGLANG","pattern":"RAPID"}
+{"label":"PROGLANG","pattern":"Rapira"}
+{"label":"PROGLANG","pattern":"Ratfiv"}
+{"label":"PROGLANG","pattern":"Ratfor"}
+{"label":"PROGLANG","pattern":"REBOL"}
+{"label":"PROGLANG","pattern":"Red"}
+{"label":"PROGLANG","pattern":"Redcode"}
+{"label":"PROGLANG","pattern":"REFAL"}
+{"label":"PROGLANG","pattern":"REXX"}
+{"label":"PROGLANG","pattern":"ROOP"}
+{"label":"PROGLANG","pattern":"RPG"}
+{"label":"PROGLANG","pattern":"RPL"}
+{"label":"PROGLANG","pattern":"RSL"}
+{"label":"PROGLANG","pattern":"RTL/2"}
+{"label":"PROGLANG","pattern":"Ruby"}
+{"label":"PROGLANG","pattern":"Rust"}
+{"label":"PROGLANG","pattern":"S-Lang"}
+{"label":"PROGLANG","pattern":"S-PLUS"}
+{"label":"PROGLANG","pattern":"S/SL"}
+{"label":"PROGLANG","pattern":"S2"}
+{"label":"PROGLANG","pattern":"S3"}
+{"label":"PROGLANG","pattern":"SA-C"}
+{"label":"PROGLANG","pattern":"SabreTalk"}
+{"label":"PROGLANG","pattern":"SAIL"}
+{"label":"PROGLANG","pattern":"SAKO"}
+{"label":"PROGLANG","pattern":"SAS"}
+{"label":"PROGLANG","pattern":"SASL"}
+{"label":"PROGLANG","pattern":"Sather"}
+{"label":"PROGLANG","pattern":"Sawzall"}
+{"label":"PROGLANG","pattern":"SBL"}
+{"label":"PROGLANG","pattern":"Scala"}
+{"label":"PROGLANG","pattern":"Scilab"}
+{"label":"PROGLANG","pattern":"Scratch"}
+{"label":"PROGLANG","pattern":"Script.NET"}
+{"label":"PROGLANG","pattern":"Sed"}
+{"label":"PROGLANG","pattern":"Seed7"}
+{"label":"PROGLANG","pattern":"SenseTalk"}
+{"label":"PROGLANG","pattern":"SequenceL"}
+{"label":"PROGLANG","pattern":"Serpent"}
+{"label":"PROGLANG","pattern":"SETL"}
+{"label":"PROGLANG","pattern":"Short Code"}
+{"label":"PROGLANG","pattern":"SIGNAL"}
+{"label":"PROGLANG","pattern":"SIMPOL"}
+{"label":"PROGLANG","pattern":"SIMSCRIPT"}
+{"label":"PROGLANG","pattern":"Simula"}
+{"label":"PROGLANG","pattern":"Simulink"}
+{"label":"PROGLANG","pattern":"SISAL"}
+{"label":"PROGLANG","pattern":"SLIP"}
+{"label":"PROGLANG","pattern":"Smalltalk"}
+{"label":"PROGLANG","pattern":"SML"}
+{"label":"PROGLANG","pattern":"Snap!"}
+{"label":"PROGLANG","pattern":"SNOBOL"}
+{"label":"PROGLANG","pattern":"Snowball"}
+{"label":"PROGLANG","pattern":"SOL"}
+{"label":"PROGLANG","pattern":"Solidity"}
+{"label":"PROGLANG","pattern":"SOPHAEROS"}
+{"label":"PROGLANG","pattern":"SP/k"}
+{"label":"PROGLANG","pattern":"SPARK"}
+{"label":"PROGLANG","pattern":"Speakeasy"}
+{"label":"PROGLANG","pattern":"Speedcode"}
+{"label":"PROGLANG","pattern":"SPIN"}
+{"label":"PROGLANG","pattern":"SPS"}
+{"label":"PROGLANG","pattern":"SQL"}
+{"label":"PROGLANG","pattern":"SQR"}
+{"label":"PROGLANG","pattern":"Squeak"}
+{"label":"PROGLANG","pattern":"Squirrel"}
+{"label":"PROGLANG","pattern":"SR"}
+{"label":"PROGLANG","pattern":"Starlogo"}
+{"label":"PROGLANG","pattern":"Stata"}
+{"label":"PROGLANG","pattern":"Stateflow"}
+{"label":"PROGLANG","pattern":"Strand"}
+{"label":"PROGLANG","pattern":"Strongtalk"}
+{"label":"PROGLANG","pattern":"Subtext"}
+{"label":"PROGLANG","pattern":"SuperCollider"}
+{"label":"PROGLANG","pattern":"Superplan"}
+{"label":"PROGLANG","pattern":"SuperTalk"}
+{"label":"PROGLANG","pattern":"Swift"}
+{"label":"PROGLANG","pattern":"Swift"}
+{"label":"PROGLANG","pattern":"SYMPL"}
+{"label":"PROGLANG","pattern":"SystemVerilog"}
+{"label":"PROGLANG","pattern":"T-SQL"}
+{"label":"PROGLANG","pattern":"TACL"}
+{"label":"PROGLANG","pattern":"TACPOL"}
+{"label":"PROGLANG","pattern":"TADS"}
+{"label":"PROGLANG","pattern":"TAL"}
+{"label":"PROGLANG","pattern":"Tcl"}
+{"label":"PROGLANG","pattern":"Tea"}
+{"label":"PROGLANG","pattern":"TECO"}
+{"label":"PROGLANG","pattern":"TELCOMP"}
+{"label":"PROGLANG","pattern":"TeX"}
+{"label":"PROGLANG","pattern":"TEX"}
+{"label":"PROGLANG","pattern":"TMG"}
+{"label":"PROGLANG","pattern":"Toi"}
+{"label":"PROGLANG","pattern":"Tom"}
+{"label":"PROGLANG","pattern":"Topspeed"}
+{"label":"PROGLANG","pattern":"TPU"}
+{"label":"PROGLANG","pattern":"Trac"}
+{"label":"PROGLANG","pattern":"Transcript"}
+{"label":"PROGLANG","pattern":"TTCN"}
+{"label":"PROGLANG","pattern":"TTM"}
+{"label":"PROGLANG","pattern":"Turing"}
+{"label":"PROGLANG","pattern":"TUTOR"}
+{"label":"PROGLANG","pattern":"TXL"}
+{"label":"PROGLANG","pattern":"Tynker"}
+{"label":"PROGLANG","pattern":"TypeScript"}
+{"label":"PROGLANG","pattern":"Ubercode"}
+{"label":"PROGLANG","pattern":"UCSD Pascal"}
+{"label":"PROGLANG","pattern":"Umple"}
+{"label":"PROGLANG","pattern":"Unicon"}
+{"label":"PROGLANG","pattern":"Uniface"}
+{"label":"PROGLANG","pattern":"UNITY"}
+{"label":"PROGLANG","pattern":"UnrealScript"}
+{"label":"PROGLANG","pattern":"Vala"}
+{"label":"PROGLANG","pattern":"VBA"}
+{"label":"PROGLANG","pattern":"Verilog"}
+{"label":"PROGLANG","pattern":"VHDL"}
+{"label":"PROGLANG","pattern":"Vim script"}
+{"label":"PROGLANG","pattern":"Viper"}
+{"label":"PROGLANG","pattern":"Visual DataFlex"}
+{"label":"PROGLANG","pattern":"Visual DialogScript"}
+{"label":"PROGLANG","pattern":"Visual FoxPro"}
+{"label":"PROGLANG","pattern":"Visual J++"}
+{"label":"PROGLANG","pattern":"Visual LISP"}
+{"label":"PROGLANG","pattern":"Visual Objects"}
+{"label":"PROGLANG","pattern":"Visual Prolog"}
+{"label":"PROGLANG","pattern":"WATFIV"}
+{"label":"PROGLANG","pattern":"WebAssembly"}
+{"label":"PROGLANG","pattern":"WebDNA"}
+{"label":"PROGLANG","pattern":"Whiley"}
+{"label":"PROGLANG","pattern":"Winbatch"}
+{"label":"PROGLANG","pattern":"Wolfram Language"}
+{"label":"PROGLANG","pattern":"Wyvern"}
+{"label":"PROGLANG","pattern":"X++"}
+{"label":"PROGLANG","pattern":"X10"}
+{"label":"PROGLANG","pattern":"xBase++"}
+{"label":"PROGLANG","pattern":"XBL"}
+{"label":"PROGLANG","pattern":"XC"}
+{"label":"PROGLANG","pattern":"xHarbour"}
+{"label":"PROGLANG","pattern":"XL"}
+{"label":"PROGLANG","pattern":"Xod"}
+{"label":"PROGLANG","pattern":"Xojo"}
+{"label":"PROGLANG","pattern":"XOTcl"}
+{"label":"PROGLANG","pattern":"XPL"}
+{"label":"PROGLANG","pattern":"XPL0"}
+{"label":"PROGLANG","pattern":"XQuery"}
+{"label":"PROGLANG","pattern":"XSB"}
+{"label":"PROGLANG","pattern":"XSharp"}
+{"label":"PROGLANG","pattern":"XSLT"}
+{"label":"PROGLANG","pattern":"Xtend"}
+{"label":"PROGLANG","pattern":"Yoix"}
+{"label":"PROGLANG","pattern":"Yorick"}
+{"label":"PROGLANG","pattern":"YQL"}
+{"label":"PROGLANG","pattern":"Z notation"}
+{"label":"PROGLANG","pattern":"Z shell"}
+{"label":"PROGLANG","pattern":"Z++"}
+{"label":"PROGLANG","pattern":"Zebra"}
+{"label":"PROGLANG","pattern":"Zeno"}
+{"label":"PROGLANG","pattern":"ZetaLisp"}
+{"label":"PROGLANG","pattern":"Zig"}
+{"label":"PROGLANG","pattern":"ZOPL"}
+{"label":"PROGLANG","pattern":"ZPL"}
+{"label":"PROGLANG","pattern":".ql"}
+{"label":"PROGLANG","pattern":"@formula"}
+{"label":"PROGLANG","pattern":"a-0 system"}
+{"label":"PROGLANG","pattern":"a.net"}
+{"label":"PROGLANG","pattern":"a+"}
+{"label":"PROGLANG","pattern":"abap"}
+{"label":"PROGLANG","pattern":"abc"}
+{"label":"PROGLANG","pattern":"abc algol"}
+{"label":"PROGLANG","pattern":"acc"}
+{"label":"PROGLANG","pattern":"accent"}
+{"label":"PROGLANG","pattern":"ace dasl"}
+{"label":"PROGLANG","pattern":"action!"}
+{"label":"PROGLANG","pattern":"actionscript"}
+{"label":"PROGLANG","pattern":"actor"}
+{"label":"PROGLANG","pattern":"ada"}
+{"label":"PROGLANG","pattern":"adenine"}
+{"label":"PROGLANG","pattern":"advpl"}
+{"label":"PROGLANG","pattern":"agda"}
+{"label":"PROGLANG","pattern":"agilent vee"}
+{"label":"PROGLANG","pattern":"agora"}
+{"label":"PROGLANG","pattern":"aimms"}
+{"label":"PROGLANG","pattern":"aldor"}
+{"label":"PROGLANG","pattern":"alef"}
+{"label":"PROGLANG","pattern":"alf"}
+{"label":"PROGLANG","pattern":"algol 58"}
+{"label":"PROGLANG","pattern":"algol 60"}
+{"label":"PROGLANG","pattern":"algol 68"}
+{"label":"PROGLANG","pattern":"algol w"}
+{"label":"PROGLANG","pattern":"alice"}
+{"label":"PROGLANG","pattern":"alma-0"}
+{"label":"PROGLANG","pattern":"ambienttalk"}
+{"label":"PROGLANG","pattern":"amiga e"}
+{"label":"PROGLANG","pattern":"amos"}
+{"label":"PROGLANG","pattern":"ampl"}
+{"label":"PROGLANG","pattern":"analitik"}
+{"label":"PROGLANG","pattern":"angelscript"}
+{"label":"PROGLANG","pattern":"apache pig latin"}
+{"label":"PROGLANG","pattern":"apex"}
+{"label":"PROGLANG","pattern":"apl"}
+{"label":"PROGLANG","pattern":"app inventor for android's visual block language"}
+{"label":"PROGLANG","pattern":"applescript"}
+{"label":"PROGLANG","pattern":"apt"}
+{"label":"PROGLANG","pattern":"arc"}
+{"label":"PROGLANG","pattern":"arexx"}
+{"label":"PROGLANG","pattern":"argus"}
+{"label":"PROGLANG","pattern":"assembly language"}
+{"label":"PROGLANG","pattern":"autoit"}
+{"label":"PROGLANG","pattern":"autolisp / visual lisp"}
+{"label":"PROGLANG","pattern":"averest"}
+{"label":"PROGLANG","pattern":"awk"}
+{"label":"PROGLANG","pattern":"axum"}
+{"label":"PROGLANG","pattern":"babbage"}
+{"label":"PROGLANG","pattern":"ballerina"}
+{"label":"PROGLANG","pattern":"bash"}
+{"label":"PROGLANG","pattern":"batch file"}
+{"label":"PROGLANG","pattern":"bcpl"}
+{"label":"PROGLANG","pattern":"beanshell"}
+{"label":"PROGLANG","pattern":"bertrand"}
+{"label":"PROGLANG","pattern":"beta"}
+{"label":"PROGLANG","pattern":"bliss"}
+{"label":"PROGLANG","pattern":"blockly"}
+{"label":"PROGLANG","pattern":"bloop"}
+{"label":"PROGLANG","pattern":"boo"}
+{"label":"PROGLANG","pattern":"boomerang"}
+{"label":"PROGLANG","pattern":"bosque"}
+{"label":"PROGLANG","pattern":"bucket"}
+{"label":"PROGLANG","pattern":"c"}
+{"label":"PROGLANG","pattern":"c \u2013 iso/iec 9899"}
+{"label":"PROGLANG","pattern":"c shell"}
+{"label":"PROGLANG","pattern":"c--"}
+{"label":"PROGLANG","pattern":"c*"}
+{"label":"PROGLANG","pattern":"c/al"}
+{"label":"PROGLANG","pattern":"c#"}
+{"label":"PROGLANG","pattern":"c++"}
+{"label":"PROGLANG","pattern":"cach\u00e9 objectscript"}
+{"label":"PROGLANG","pattern":"caml"}
+{"label":"PROGLANG","pattern":"cayenne"}
+{"label":"PROGLANG","pattern":"cduce"}
+{"label":"PROGLANG","pattern":"cecil"}
+{"label":"PROGLANG","pattern":"ceemac"}
+{"label":"PROGLANG","pattern":"cesil"}
+{"label":"PROGLANG","pattern":"c\u00e9u"}
+{"label":"PROGLANG","pattern":"ceylon"}
+{"label":"PROGLANG","pattern":"cfengine"}
+{"label":"PROGLANG","pattern":"chapel"}
+{"label":"PROGLANG","pattern":"charm"}
+{"label":"PROGLANG","pattern":"chill"}
+{"label":"PROGLANG","pattern":"chip-8"}
+{"label":"PROGLANG","pattern":"chuck"}
+{"label":"PROGLANG","pattern":"cilk"}
+{"label":"PROGLANG","pattern":"claire"}
+{"label":"PROGLANG","pattern":"clarion"}
+{"label":"PROGLANG","pattern":"clipper"}
+{"label":"PROGLANG","pattern":"clips"}
+{"label":"PROGLANG","pattern":"clist"}
+{"label":"PROGLANG","pattern":"clojure"}
+{"label":"PROGLANG","pattern":"clu"}
+{"label":"PROGLANG","pattern":"cms exec"}
+{"label":"PROGLANG","pattern":"cms-2"}
+{"label":"PROGLANG","pattern":"cobol \u2013 iso/iec 1989"}
+{"label":"PROGLANG","pattern":"cobolscript \u2013 cobol scripting language"}
+{"label":"PROGLANG","pattern":"cobra"}
+{"label":"PROGLANG","pattern":"coffeescript"}
+{"label":"PROGLANG","pattern":"coldfusion"}
+{"label":"PROGLANG","pattern":"comal"}
+{"label":"PROGLANG","pattern":"comit"}
+{"label":"PROGLANG","pattern":"common intermediate language"}
+{"label":"PROGLANG","pattern":"common lisp"}
+{"label":"PROGLANG","pattern":"compass"}
+{"label":"PROGLANG","pattern":"component pascal"}
+{"label":"PROGLANG","pattern":"comtran"}
+{"label":"PROGLANG","pattern":"constraint handling rules"}
+{"label":"PROGLANG","pattern":"control language"}
+{"label":"PROGLANG","pattern":"cool"}
+{"label":"PROGLANG","pattern":"coral 66"}
+{"label":"PROGLANG","pattern":"corvision"}
+{"label":"PROGLANG","pattern":"cowsel"}
+{"label":"PROGLANG","pattern":"cpl"}
+{"label":"PROGLANG","pattern":"cryptol"}
+{"label":"PROGLANG","pattern":"crystal"}
+{"label":"PROGLANG","pattern":"csound"}
+{"label":"PROGLANG","pattern":"cuneiform"}
+{"label":"PROGLANG","pattern":"curl"}
+{"label":"PROGLANG","pattern":"curry"}
+{"label":"PROGLANG","pattern":"cybil"}
+{"label":"PROGLANG","pattern":"cyclone"}
+{"label":"PROGLANG","pattern":"cypher query language"}
+{"label":"PROGLANG","pattern":"cython="}
+{"label":"PROGLANG","pattern":"dart"}
+{"label":"PROGLANG","pattern":"darwin"}
+{"label":"PROGLANG","pattern":"dataflex"}
+{"label":"PROGLANG","pattern":"datalog"}
+{"label":"PROGLANG","pattern":"datatrieve"}
+{"label":"PROGLANG","pattern":"dax"}
+{"label":"PROGLANG","pattern":"dbase"}
+{"label":"PROGLANG","pattern":"dcl"}
+{"label":"PROGLANG","pattern":"delphi"}
+{"label":"PROGLANG","pattern":"dibol"}
+{"label":"PROGLANG","pattern":"dinkc"}
+{"label":"PROGLANG","pattern":"dog"}
+{"label":"PROGLANG","pattern":"draco"}
+{"label":"PROGLANG","pattern":"drakon"}
+{"label":"PROGLANG","pattern":"dylan"}
+{"label":"PROGLANG","pattern":"dynamo"}
+{"label":"PROGLANG","pattern":"easy pl/i"}
+{"label":"PROGLANG","pattern":"ecmascript"}
+{"label":"PROGLANG","pattern":"edinburgh imp"}
+{"label":"PROGLANG","pattern":"egl"}
+{"label":"PROGLANG","pattern":"eiffel"}
+{"label":"PROGLANG","pattern":"elan"}
+{"label":"PROGLANG","pattern":"elixir"}
+{"label":"PROGLANG","pattern":"elm"}
+{"label":"PROGLANG","pattern":"emacs lisp"}
+{"label":"PROGLANG","pattern":"emerald"}
+{"label":"PROGLANG","pattern":"epigram"}
+{"label":"PROGLANG","pattern":"epl"}
+{"label":"PROGLANG","pattern":"epl"}
+{"label":"PROGLANG","pattern":"erlang"}
+{"label":"PROGLANG","pattern":"escher"}
+{"label":"PROGLANG","pattern":"espol"}
+{"label":"PROGLANG","pattern":"esterel"}
+{"label":"PROGLANG","pattern":"etoys"}
+{"label":"PROGLANG","pattern":"euclid"}
+{"label":"PROGLANG","pattern":"euler"}
+{"label":"PROGLANG","pattern":"euphoria"}
+{"label":"PROGLANG","pattern":"euslisp robot programming language"}
+{"label":"PROGLANG","pattern":"exec 2"}
+{"label":"PROGLANG","pattern":"executable uml"}
+{"label":"PROGLANG","pattern":"ezhil"}
+{"label":"PROGLANG","pattern":"f-script"}
+{"label":"PROGLANG","pattern":"f*"}
+{"label":"PROGLANG","pattern":"f#"}
+{"label":"PROGLANG","pattern":"fantom"}
+{"label":"PROGLANG","pattern":"faust"}
+{"label":"PROGLANG","pattern":"ffp"}
+{"label":"PROGLANG","pattern":"fish"}
+{"label":"PROGLANG","pattern":"fj\u00f6lnir"}
+{"label":"PROGLANG","pattern":"fl"}
+{"label":"PROGLANG","pattern":"flagship"}
+{"label":"PROGLANG","pattern":"flavors"}
+{"label":"PROGLANG","pattern":"flex"}
+{"label":"PROGLANG","pattern":"flix"}
+{"label":"PROGLANG","pattern":"floop"}
+{"label":"PROGLANG","pattern":"flow-matic"}
+{"label":"PROGLANG","pattern":"focal"}
+{"label":"PROGLANG","pattern":"foil"}
+{"label":"PROGLANG","pattern":"formac"}
+{"label":"PROGLANG","pattern":"fortran \u2013 iso/iec 1539"}
+{"label":"PROGLANG","pattern":"fortress"}
+{"label":"PROGLANG","pattern":"foxbase/foxpro"}
+{"label":"PROGLANG","pattern":"fp"}
+{"label":"PROGLANG","pattern":"franz lisp"}
+{"label":"PROGLANG","pattern":"futhark"}
+{"label":"PROGLANG","pattern":"g-code"}
+{"label":"PROGLANG","pattern":"game maker language"}
+{"label":"PROGLANG","pattern":"gamemonkey script"}
+{"label":"PROGLANG","pattern":"gams"}
+{"label":"PROGLANG","pattern":"gap"}
+{"label":"PROGLANG","pattern":"gdl"}
+{"label":"PROGLANG","pattern":"gdscript"}
+{"label":"PROGLANG","pattern":"genie"}
+{"label":"PROGLANG","pattern":"george"}
+{"label":"PROGLANG","pattern":"glsl"}
+{"label":"PROGLANG","pattern":"gnu e"}
+{"label":"PROGLANG","pattern":"gnu guile"}
+{"label":"PROGLANG","pattern":"go"}
+{"label":"PROGLANG","pattern":"g\u00f6del"}
+{"label":"PROGLANG","pattern":"golo"}
+{"label":"PROGLANG","pattern":"gom"}
+{"label":"PROGLANG","pattern":"google apps script"}
+{"label":"PROGLANG","pattern":"gosu"}
+{"label":"PROGLANG","pattern":"gotran"}
+{"label":"PROGLANG","pattern":"gpss"}
+{"label":"PROGLANG","pattern":"graphtalk"}
+{"label":"PROGLANG","pattern":"grass"}
+{"label":"PROGLANG","pattern":"grasshopper"}
+{"label":"PROGLANG","pattern":"groovy"}
+{"label":"PROGLANG","pattern":"hack"}
+{"label":"PROGLANG","pattern":"haggis"}
+{"label":"PROGLANG","pattern":"hal/s"}
+{"label":"PROGLANG","pattern":"halide"}
+{"label":"PROGLANG","pattern":"hamilton c shell"}
+{"label":"PROGLANG","pattern":"harbour"}
+{"label":"PROGLANG","pattern":"hartmann pipelines"}
+{"label":"PROGLANG","pattern":"haskell"}
+{"label":"PROGLANG","pattern":"haxe"}
+{"label":"PROGLANG","pattern":"hermes"}
+{"label":"PROGLANG","pattern":"high level assembly"}
+{"label":"PROGLANG","pattern":"hlsl"}
+{"label":"PROGLANG","pattern":"hollywood"}
+{"label":"PROGLANG","pattern":"holyc"}
+{"label":"PROGLANG","pattern":"hop"}
+{"label":"PROGLANG","pattern":"hopscotch"}
+{"label":"PROGLANG","pattern":"hume"}
+{"label":"PROGLANG","pattern":"hypertalk"}
+{"label":"PROGLANG","pattern":"ibm basic assembly language"}
+{"label":"PROGLANG","pattern":"ibm hascript"}
+{"label":"PROGLANG","pattern":"ibm informix-4gl"}
+{"label":"PROGLANG","pattern":"ibm rpg"}
+{"label":"PROGLANG","pattern":"icon"}
+{"label":"PROGLANG","pattern":"idl"}
+{"label":"PROGLANG","pattern":"idris"}
+{"label":"PROGLANG","pattern":"io"}
+{"label":"PROGLANG","pattern":"islisp"}
+{"label":"PROGLANG","pattern":"j#"}
+{"label":"PROGLANG","pattern":"j++"}
+{"label":"PROGLANG","pattern":"jade"}
+{"label":"PROGLANG","pattern":"jai"}
+{"label":"PROGLANG","pattern":"jal"}
+{"label":"PROGLANG","pattern":"janus"}
+{"label":"PROGLANG","pattern":"janus"}
+{"label":"PROGLANG","pattern":"jass"}
+{"label":"PROGLANG","pattern":"java"}
+{"label":"PROGLANG","pattern":"javafx script"}
+{"label":"PROGLANG","pattern":"javascript"}
+{"label":"PROGLANG","pattern":"jcl"}
+{"label":"PROGLANG","pattern":"jean"}
+{"label":"PROGLANG","pattern":"jess"}
+{"label":"PROGLANG","pattern":"join java"}
+{"label":"PROGLANG","pattern":"joss"}
+{"label":"PROGLANG","pattern":"joule"}
+{"label":"PROGLANG","pattern":"jovial"}
+{"label":"PROGLANG","pattern":"joy"}
+{"label":"PROGLANG","pattern":"jscript"}
+{"label":"PROGLANG","pattern":"jscript .net"}
+{"label":"PROGLANG","pattern":"julia"}
+{"label":"PROGLANG","pattern":"jython"}
+{"label":"PROGLANG","pattern":"kaleidoscope"}
+{"label":"PROGLANG","pattern":"karel"}
+{"label":"PROGLANG","pattern":"kee"}
+{"label":"PROGLANG","pattern":"kif"}
+{"label":"PROGLANG","pattern":"kixtart"}
+{"label":"PROGLANG","pattern":"klerer-may system"}
+{"label":"PROGLANG","pattern":"kodu"}
+{"label":"PROGLANG","pattern":"kojo"}
+{"label":"PROGLANG","pattern":"kornshell"}
+{"label":"PROGLANG","pattern":"kotlin"}
+{"label":"PROGLANG","pattern":"krc"}
+{"label":"PROGLANG","pattern":"krl"}
+{"label":"PROGLANG","pattern":"krl"}
+{"label":"PROGLANG","pattern":"krypton"}
+{"label":"PROGLANG","pattern":"kv"}
+{"label":"PROGLANG","pattern":"labview"}
+{"label":"PROGLANG","pattern":"ladder"}
+{"label":"PROGLANG","pattern":"language h"}
+{"label":"PROGLANG","pattern":"lansa"}
+{"label":"PROGLANG","pattern":"lasso"}
+{"label":"PROGLANG","pattern":"lava"}
+{"label":"PROGLANG","pattern":"lc-3"}
+{"label":"PROGLANG","pattern":"lean"}
+{"label":"PROGLANG","pattern":"legoscript"}
+{"label":"PROGLANG","pattern":"lexico"}
+{"label":"PROGLANG","pattern":"lil"}
+{"label":"PROGLANG","pattern":"lilypond"}
+{"label":"PROGLANG","pattern":"limbo"}
+{"label":"PROGLANG","pattern":"limnor"}
+{"label":"PROGLANG","pattern":"linc"}
+{"label":"PROGLANG","pattern":"lingo"}
+{"label":"PROGLANG","pattern":"linq"}
+{"label":"PROGLANG","pattern":"lis"}
+{"label":"PROGLANG","pattern":"lisa"}
+{"label":"PROGLANG","pattern":"lisp \u2013 iso/iec 13816"}
+{"label":"PROGLANG","pattern":"lite-c"}
+{"label":"PROGLANG","pattern":"lithe"}
+{"label":"PROGLANG","pattern":"little b"}
+{"label":"PROGLANG","pattern":"livecode"}
+{"label":"PROGLANG","pattern":"livescript"}
+{"label":"PROGLANG","pattern":"lll"}
+{"label":"PROGLANG","pattern":"logo"}
+{"label":"PROGLANG","pattern":"logtalk"}
+{"label":"PROGLANG","pattern":"lotusscript"}
+{"label":"PROGLANG","pattern":"lpc"}
+{"label":"PROGLANG","pattern":"lse"}
+{"label":"PROGLANG","pattern":"lsl"}
+{"label":"PROGLANG","pattern":"lua"}
+{"label":"PROGLANG","pattern":"lucid"}
+{"label":"PROGLANG","pattern":"lustre"}
+{"label":"PROGLANG","pattern":"lyapas"}
+{"label":"PROGLANG","pattern":"lynx"}
+{"label":"PROGLANG","pattern":"m formula language"}
+{"label":"PROGLANG","pattern":"m#"}
+{"label":"PROGLANG","pattern":"m2001"}
+{"label":"PROGLANG","pattern":"m4"}
+{"label":"PROGLANG","pattern":"machine code"}
+{"label":"PROGLANG","pattern":"mad"}
+{"label":"PROGLANG","pattern":"mad/i"}
+{"label":"PROGLANG","pattern":"magik"}
+{"label":"PROGLANG","pattern":"magma"}
+{"label":"PROGLANG","pattern":"m\u00e1ni"}
+{"label":"PROGLANG","pattern":"maple"}
+{"label":"PROGLANG","pattern":"mapper"}
+{"label":"PROGLANG","pattern":"mark-iv"}
+{"label":"PROGLANG","pattern":"mary"}
+{"label":"PROGLANG","pattern":"masm microsoft assembly x86"}
+{"label":"PROGLANG","pattern":"math-matic"}
+{"label":"PROGLANG","pattern":"matlab"}
+{"label":"PROGLANG","pattern":"maude system"}
+{"label":"PROGLANG","pattern":"max"}
+{"label":"PROGLANG","pattern":"maxima"}
+{"label":"PROGLANG","pattern":"maxscript internal language 3d studio max"}
+{"label":"PROGLANG","pattern":"maya"}
+{"label":"PROGLANG","pattern":"mdl"}
+{"label":"PROGLANG","pattern":"mercury"}
+{"label":"PROGLANG","pattern":"mesa"}
+{"label":"PROGLANG","pattern":"mheg-5"}
+{"label":"PROGLANG","pattern":"microcode"}
+{"label":"PROGLANG","pattern":"microscript"}
+{"label":"PROGLANG","pattern":"microsoft power fx"}
+{"label":"PROGLANG","pattern":"miis"}
+{"label":"PROGLANG","pattern":"milk"}
+{"label":"PROGLANG","pattern":"mimic"}
+{"label":"PROGLANG","pattern":"mirah"}
+{"label":"PROGLANG","pattern":"miranda"}
+{"label":"PROGLANG","pattern":"miva script"}
+{"label":"PROGLANG","pattern":"model 204"}
+{"label":"PROGLANG","pattern":"modelica"}
+{"label":"PROGLANG","pattern":"modula"}
+{"label":"PROGLANG","pattern":"modula-2"}
+{"label":"PROGLANG","pattern":"modula-3"}
+{"label":"PROGLANG","pattern":"mohol"}
+{"label":"PROGLANG","pattern":"moo"}
+{"label":"PROGLANG","pattern":"mortran"}
+{"label":"PROGLANG","pattern":"mouse"}
+{"label":"PROGLANG","pattern":"mpd"}
+{"label":"PROGLANG","pattern":"msl"}
+{"label":"PROGLANG","pattern":"mumps"}
+{"label":"PROGLANG","pattern":"mupad"}
+{"label":"PROGLANG","pattern":"mutan"}
+{"label":"PROGLANG","pattern":"mystic programming language"}
+{"label":"PROGLANG","pattern":"napier88"}
+{"label":"PROGLANG","pattern":"nasm"}
+{"label":"PROGLANG","pattern":"neko"}
+{"label":"PROGLANG","pattern":"nemerle"}
+{"label":"PROGLANG","pattern":"nesl"}
+{"label":"PROGLANG","pattern":"net.data"}
+{"label":"PROGLANG","pattern":"netlogo"}
+{"label":"PROGLANG","pattern":"netrexx"}
+{"label":"PROGLANG","pattern":"newlisp"}
+{"label":"PROGLANG","pattern":"newp"}
+{"label":"PROGLANG","pattern":"newspeak"}
+{"label":"PROGLANG","pattern":"newtonscript"}
+{"label":"PROGLANG","pattern":"nial"}
+{"label":"PROGLANG","pattern":"nickle"}
+{"label":"PROGLANG","pattern":"nim"}
+{"label":"PROGLANG","pattern":"nix"}
+{"label":"PROGLANG","pattern":"not exactly c"}
+{"label":"PROGLANG","pattern":"not quite c"}
+{"label":"PROGLANG","pattern":"npl"}
+{"label":"PROGLANG","pattern":"nsis"}
+{"label":"PROGLANG","pattern":"nu"}
+{"label":"PROGLANG","pattern":"nwscript"}
+{"label":"PROGLANG","pattern":"nxt-g"}
+{"label":"PROGLANG","pattern":"o:xml"}
+{"label":"PROGLANG","pattern":"oak"}
+{"label":"PROGLANG","pattern":"oberon"}
+{"label":"PROGLANG","pattern":"obj2"}
+{"label":"PROGLANG","pattern":"object lisp"}
+{"label":"PROGLANG","pattern":"object pascal"}
+{"label":"PROGLANG","pattern":"object rexx"}
+{"label":"PROGLANG","pattern":"objective-c"}
+{"label":"PROGLANG","pattern":"objective-j"}
+{"label":"PROGLANG","pattern":"objectlogo"}
+{"label":"PROGLANG","pattern":"obliq"}
+{"label":"PROGLANG","pattern":"ocaml"}
+{"label":"PROGLANG","pattern":"occam"}
+{"label":"PROGLANG","pattern":"occam-\u03c0"}
+{"label":"PROGLANG","pattern":"octave"}
+{"label":"PROGLANG","pattern":"omnimark"}
+{"label":"PROGLANG","pattern":"opa"}
+{"label":"PROGLANG","pattern":"opal"}
+{"label":"PROGLANG","pattern":"open programming language"}
+{"label":"PROGLANG","pattern":"opencl"}
+{"label":"PROGLANG","pattern":"openedge advanced business language"}
+{"label":"PROGLANG","pattern":"openvera"}
+{"label":"PROGLANG","pattern":"ops5"}
+{"label":"PROGLANG","pattern":"optimj"}
+{"label":"PROGLANG","pattern":"orc"}
+{"label":"PROGLANG","pattern":"orca/modula-2"}
+{"label":"PROGLANG","pattern":"oriel"}
+{"label":"PROGLANG","pattern":"orwell"}
+{"label":"PROGLANG","pattern":"oxygene"}
+{"label":"PROGLANG","pattern":"oz"}
+{"label":"PROGLANG","pattern":"p\u2032\u2032"}
+{"label":"PROGLANG","pattern":"p4"}
+{"label":"PROGLANG","pattern":"parasail"}
+{"label":"PROGLANG","pattern":"pari/gp"}
+{"label":"PROGLANG","pattern":"pascal \u2013 iso 7185"}
+{"label":"PROGLANG","pattern":"pascal script"}
+{"label":"PROGLANG","pattern":"pcastl"}
+{"label":"PROGLANG","pattern":"pcf"}
+{"label":"PROGLANG","pattern":"pdl"}
+{"label":"PROGLANG","pattern":"pearl"}
+{"label":"PROGLANG","pattern":"peoplecode"}
+{"label":"PROGLANG","pattern":"perl"}
+{"label":"PROGLANG","pattern":"pharo"}
+{"label":"PROGLANG","pattern":"php"}
+{"label":"PROGLANG","pattern":"pico"}
+{"label":"PROGLANG","pattern":"picolisp"}
+{"label":"PROGLANG","pattern":"pict"}
+{"label":"PROGLANG","pattern":"pike"}
+{"label":"PROGLANG","pattern":"pilot"}
+{"label":"PROGLANG","pattern":"pizza"}
+{"label":"PROGLANG","pattern":"pl-11"}
+{"label":"PROGLANG","pattern":"pl/0"}
+{"label":"PROGLANG","pattern":"pl/b"}
+{"label":"PROGLANG","pattern":"pl/c"}
+{"label":"PROGLANG","pattern":"pl/i \u2013 iso 6160"}
+{"label":"PROGLANG","pattern":"pl/m"}
+{"label":"PROGLANG","pattern":"pl/p"}
+{"label":"PROGLANG","pattern":"pl/s"}
+{"label":"PROGLANG","pattern":"pl/sql"}
+{"label":"PROGLANG","pattern":"pl360"}
+{"label":"PROGLANG","pattern":"planc"}
+{"label":"PROGLANG","pattern":"plankalk\u00fcl"}
+{"label":"PROGLANG","pattern":"planner"}
+{"label":"PROGLANG","pattern":"plex"}
+{"label":"PROGLANG","pattern":"plexil"}
+{"label":"PROGLANG","pattern":"pop-11"}
+{"label":"PROGLANG","pattern":"pop-2"}
+{"label":"PROGLANG","pattern":"portable"}
+{"label":"PROGLANG","pattern":"postscript"}
+{"label":"PROGLANG","pattern":"pov-ray sdl"}
+{"label":"PROGLANG","pattern":"powerbuilder \u2013 4gl gui application generator from sybase"}
+{"label":"PROGLANG","pattern":"powerhouse"}
+{"label":"PROGLANG","pattern":"powershell"}
+{"label":"PROGLANG","pattern":"ppl"}
+{"label":"PROGLANG","pattern":"pro*c"}
+{"label":"PROGLANG","pattern":"processing.js"}
+{"label":"PROGLANG","pattern":"prograph"}
+{"label":"PROGLANG","pattern":"project verona"}
+{"label":"PROGLANG","pattern":"prolog"}
+{"label":"PROGLANG","pattern":"promal"}
+{"label":"PROGLANG","pattern":"promela"}
+{"label":"PROGLANG","pattern":"prose modeling language"}
+{"label":"PROGLANG","pattern":"protel"}
+{"label":"PROGLANG","pattern":"providex"}
+{"label":"PROGLANG","pattern":"pure"}
+{"label":"PROGLANG","pattern":"pure data"}
+{"label":"PROGLANG","pattern":"purescript"}
+{"label":"PROGLANG","pattern":"python"}
+{"label":"PROGLANG","pattern":"q#"}
+{"label":"PROGLANG","pattern":"qalb"}
+{"label":"PROGLANG","pattern":"qpl"}
+{"label":"PROGLANG","pattern":"qtscript"}
+{"label":"PROGLANG","pattern":"quakec"}
+{"label":"PROGLANG","pattern":"quantum computation language"}
+{"label":"PROGLANG","pattern":"r"}
+{"label":"PROGLANG","pattern":"r++"}
+{"label":"PROGLANG","pattern":"racket"}
+{"label":"PROGLANG","pattern":"raku"}
+{"label":"PROGLANG","pattern":"rapid"}
+{"label":"PROGLANG","pattern":"rapira"}
+{"label":"PROGLANG","pattern":"ratfiv"}
+{"label":"PROGLANG","pattern":"ratfor"}
+{"label":"PROGLANG","pattern":"rebol"}
+{"label":"PROGLANG","pattern":"red"}
+{"label":"PROGLANG","pattern":"redcode"}
+{"label":"PROGLANG","pattern":"refal"}
+{"label":"PROGLANG","pattern":"rexx"}
+{"label":"PROGLANG","pattern":"roop"}
+{"label":"PROGLANG","pattern":"rpg"}
+{"label":"PROGLANG","pattern":"rpl"}
+{"label":"PROGLANG","pattern":"rsl"}
+{"label":"PROGLANG","pattern":"rtl/2"}
+{"label":"PROGLANG","pattern":"ruby"}
+{"label":"PROGLANG","pattern":"rust"}
+{"label":"PROGLANG","pattern":"s-lang"}
+{"label":"PROGLANG","pattern":"s-plus"}
+{"label":"PROGLANG","pattern":"s/sl"}
+{"label":"PROGLANG","pattern":"s2"}
+{"label":"PROGLANG","pattern":"s3"}
+{"label":"PROGLANG","pattern":"sa-c"}
+{"label":"PROGLANG","pattern":"sabretalk"}
+{"label":"PROGLANG","pattern":"sail"}
+{"label":"PROGLANG","pattern":"sako"}
+{"label":"PROGLANG","pattern":"sas"}
+{"label":"PROGLANG","pattern":"sasl"}
+{"label":"PROGLANG","pattern":"sather"}
+{"label":"PROGLANG","pattern":"sawzall"}
+{"label":"PROGLANG","pattern":"sbl"}
+{"label":"PROGLANG","pattern":"scala"}
+{"label":"PROGLANG","pattern":"scilab"}
+{"label":"PROGLANG","pattern":"scratch"}
+{"label":"PROGLANG","pattern":"script.net"}
+{"label":"PROGLANG","pattern":"sed"}
+{"label":"PROGLANG","pattern":"seed7"}
+{"label":"PROGLANG","pattern":"sensetalk"}
+{"label":"PROGLANG","pattern":"sequencel"}
+{"label":"PROGLANG","pattern":"serpent"}
+{"label":"PROGLANG","pattern":"setl"}
+{"label":"PROGLANG","pattern":"short code"}
+{"label":"PROGLANG","pattern":"signal"}
+{"label":"PROGLANG","pattern":"simpol"}
+{"label":"PROGLANG","pattern":"simscript"}
+{"label":"PROGLANG","pattern":"simula"}
+{"label":"PROGLANG","pattern":"simulink"}
+{"label":"PROGLANG","pattern":"sisal"}
+{"label":"PROGLANG","pattern":"slip"}
+{"label":"PROGLANG","pattern":"smalltalk"}
+{"label":"PROGLANG","pattern":"sml"}
+{"label":"PROGLANG","pattern":"snap!"}
+{"label":"PROGLANG","pattern":"snobol"}
+{"label":"PROGLANG","pattern":"snowball"}
+{"label":"PROGLANG","pattern":"sol"}
+{"label":"PROGLANG","pattern":"solidity"}
+{"label":"PROGLANG","pattern":"sophaeros"}
+{"label":"PROGLANG","pattern":"sp/k"}
+{"label":"PROGLANG","pattern":"spark"}
+{"label":"PROGLANG","pattern":"speakeasy"}
+{"label":"PROGLANG","pattern":"speedcode"}
+{"label":"PROGLANG","pattern":"spin"}
+{"label":"PROGLANG","pattern":"sps"}
+{"label":"PROGLANG","pattern":"sql"}
+{"label":"PROGLANG","pattern":"sqr"}
+{"label":"PROGLANG","pattern":"squeak"}
+{"label":"PROGLANG","pattern":"squirrel"}
+{"label":"PROGLANG","pattern":"sr"}
+{"label":"PROGLANG","pattern":"starlogo"}
+{"label":"PROGLANG","pattern":"stata"}
+{"label":"PROGLANG","pattern":"stateflow"}
+{"label":"PROGLANG","pattern":"strand"}
+{"label":"PROGLANG","pattern":"strongtalk"}
+{"label":"PROGLANG","pattern":"subtext"}
+{"label":"PROGLANG","pattern":"supercollider"}
+{"label":"PROGLANG","pattern":"superplan"}
+{"label":"PROGLANG","pattern":"supertalk"}
+{"label":"PROGLANG","pattern":"swift"}
+{"label":"PROGLANG","pattern":"swift"}
+{"label":"PROGLANG","pattern":"sympl"}
+{"label":"PROGLANG","pattern":"systemverilog"}
+{"label":"PROGLANG","pattern":"t-sql"}
+{"label":"PROGLANG","pattern":"tacl"}
+{"label":"PROGLANG","pattern":"tacpol"}
+{"label":"PROGLANG","pattern":"tads"}
+{"label":"PROGLANG","pattern":"tal"}
+{"label":"PROGLANG","pattern":"tcl"}
+{"label":"PROGLANG","pattern":"tea"}
+{"label":"PROGLANG","pattern":"teco"}
+{"label":"PROGLANG","pattern":"telcomp"}
+{"label":"PROGLANG","pattern":"tex"}
+{"label":"PROGLANG","pattern":"tex"}
+{"label":"PROGLANG","pattern":"tmg"}
+{"label":"PROGLANG","pattern":"toi"}
+{"label":"PROGLANG","pattern":"tom"}
+{"label":"PROGLANG","pattern":"topspeed"}
+{"label":"PROGLANG","pattern":"tpu"}
+{"label":"PROGLANG","pattern":"trac"}
+{"label":"PROGLANG","pattern":"transcript"}
+{"label":"PROGLANG","pattern":"ttcn"}
+{"label":"PROGLANG","pattern":"ttm"}
+{"label":"PROGLANG","pattern":"turing"}
+{"label":"PROGLANG","pattern":"tutor"}
+{"label":"PROGLANG","pattern":"txl"}
+{"label":"PROGLANG","pattern":"tynker"}
+{"label":"PROGLANG","pattern":"typescript"}
+{"label":"PROGLANG","pattern":"ubercode"}
+{"label":"PROGLANG","pattern":"ucsd pascal"}
+{"label":"PROGLANG","pattern":"umple"}
+{"label":"PROGLANG","pattern":"unicon"}
+{"label":"PROGLANG","pattern":"uniface"}
+{"label":"PROGLANG","pattern":"unity"}
+{"label":"PROGLANG","pattern":"unrealscript"}
+{"label":"PROGLANG","pattern":"vala"}
+{"label":"PROGLANG","pattern":"vba"}
+{"label":"PROGLANG","pattern":"verilog"}
+{"label":"PROGLANG","pattern":"vhdl"}
+{"label":"PROGLANG","pattern":"vim script"}
+{"label":"PROGLANG","pattern":"viper"}
+{"label":"PROGLANG","pattern":"visual dataflex"}
+{"label":"PROGLANG","pattern":"visual dialogscript"}
+{"label":"PROGLANG","pattern":"visual foxpro"}
+{"label":"PROGLANG","pattern":"visual j++"}
+{"label":"PROGLANG","pattern":"visual lisp"}
+{"label":"PROGLANG","pattern":"visual objects"}
+{"label":"PROGLANG","pattern":"visual prolog"}
+{"label":"PROGLANG","pattern":"watfiv"}
+{"label":"PROGLANG","pattern":"webassembly"}
+{"label":"PROGLANG","pattern":"webdna"}
+{"label":"PROGLANG","pattern":"whiley"}
+{"label":"PROGLANG","pattern":"winbatch"}
+{"label":"PROGLANG","pattern":"wolfram language"}
+{"label":"PROGLANG","pattern":"wyvern"}
+{"label":"PROGLANG","pattern":"x++"}
+{"label":"PROGLANG","pattern":"x10"}
+{"label":"PROGLANG","pattern":"xbase++"}
+{"label":"PROGLANG","pattern":"xbl"}
+{"label":"PROGLANG","pattern":"xc"}
+{"label":"PROGLANG","pattern":"xharbour"}
+{"label":"PROGLANG","pattern":"xl"}
+{"label":"PROGLANG","pattern":"xod"}
+{"label":"PROGLANG","pattern":"xojo"}
+{"label":"PROGLANG","pattern":"xotcl"}
+{"label":"PROGLANG","pattern":"xpl"}
+{"label":"PROGLANG","pattern":"xpl0"}
+{"label":"PROGLANG","pattern":"xquery"}
+{"label":"PROGLANG","pattern":"xsb"}
+{"label":"PROGLANG","pattern":"xsharp"}
+{"label":"PROGLANG","pattern":"xslt"}
+{"label":"PROGLANG","pattern":"xtend"}
+{"label":"PROGLANG","pattern":"yoix"}
+{"label":"PROGLANG","pattern":"yorick"}
+{"label":"PROGLANG","pattern":"yql"}
+{"label":"PROGLANG","pattern":"z notation"}
+{"label":"PROGLANG","pattern":"z shell"}
+{"label":"PROGLANG","pattern":"z++"}
+{"label":"PROGLANG","pattern":"zebra"}
+{"label":"PROGLANG","pattern":"zeno"}
+{"label":"PROGLANG","pattern":"zetalisp"}
+{"label":"PROGLANG","pattern":"zig"}
+{"label":"PROGLANG","pattern":"zopl"}
+{"label":"PROGLANG","pattern":"zpl"}
+{"label":"TOOL","pattern":"Git"}
+{"label":"TOOL","pattern":"Apache spark"}
+{"label":"TOOL","pattern":"Jupyter"}
+{"label":"TOOL","pattern":"SAS"}
+{"label":"TOOL","pattern":"BigML"}
+{"label":"TOOL","pattern":"Qlik"}
+{"label":"TOOL","pattern":"Weka"}
+{"label":"TOOL","pattern":"MATLAB"}
+{"label":"TOOL","pattern":"Excel"}
+{"label":"TOOL","pattern":"Tableau"}
+{"label":"TOOL","pattern":"PowerBI"}
+{"label":"TOOL","pattern":"Jenkins"}
+{"label":"TOOL","pattern":"MLflow"}
+{"label":"TOOL","pattern":"MySQL"}
+{"label":"TOOL","pattern":"PostgreSQL"}
+{"label":"TOOL","pattern":"MongoDB"}
+{"label":"TOOL","pattern":"Redis"}
+{"label":"TOOL","pattern":"Hadoop"}
+{"label":"TOOL","pattern":"AWS"}
+{"label":"TOOL","pattern":"Azure"}
+{"label":"TOOL","pattern":"Spark"}
+{"label":"TOOL","pattern":"MS SQL Server"}
+{"label":"TOOL","pattern":"Octoparse"}
+{"label":"TOOL","pattern":"ParseHub"}
+{"label":"TOOL","pattern":"RStudio"}
+{"label":"TOOL","pattern":"PyCharm"}
+{"label":"TOOL","pattern":"Spyder"}
+{"label":"TOOL","pattern":"Kubernetes"}
+{"label":"TOOL","pattern":"Jira"}
+{"label":"TOOL","pattern":"Kubeflow"}
+{"label":"TOOL","pattern":"Talend"}
+{"label":"TOOL","pattern":"ElasticSearch"}
+{"label":"TOOL","pattern":"Presto"}
+{"label":"TOOL","pattern":"Cassandra"}
+{"label":"TOOL","pattern":"Hunk"}
+{"label":"TOOL","pattern":"Apache Kafka"}
+{"label":"TOOL","pattern":"Splunk"}
+{"label":"TOOL","pattern":"Yarn"}
+{"label":"TOOL","pattern":"Oracle"}
+{"label":"TOOL","pattern":"git"}
+{"label":"TOOL","pattern":"apache spark"}
+{"label":"TOOL","pattern":"jupyter"}
+{"label":"TOOL","pattern":"sas"}
+{"label":"TOOL","pattern":"bigml"}
+{"label":"TOOL","pattern":"qlik"}
+{"label":"TOOL","pattern":"weka"}
+{"label":"TOOL","pattern":"matlab"}
+{"label":"TOOL","pattern":"excel"}
+{"label":"TOOL","pattern":"tableau"}
+{"label":"TOOL","pattern":"powerbi"}
+{"label":"TOOL","pattern":"jenkins"}
+{"label":"TOOL","pattern":"mlflow"}
+{"label":"TOOL","pattern":"mysql"}
+{"label":"TOOL","pattern":"postgresql"}
+{"label":"TOOL","pattern":"mongodb"}
+{"label":"TOOL","pattern":"redis"}
+{"label":"TOOL","pattern":"hadoop"}
+{"label":"TOOL","pattern":"aws"}
+{"label":"TOOL","pattern":"azure"}
+{"label":"TOOL","pattern":"spark"}
+{"label":"TOOL","pattern":"ms sql server"}
+{"label":"TOOL","pattern":"octoparse"}
+{"label":"TOOL","pattern":"parsehub"}
+{"label":"TOOL","pattern":"rstudio"}
+{"label":"TOOL","pattern":"pycharm"}
+{"label":"TOOL","pattern":"spyder"}
+{"label":"TOOL","pattern":"kubernetes"}
+{"label":"TOOL","pattern":"jira"}
+{"label":"TOOL","pattern":"kubeflow"}
+{"label":"TOOL","pattern":"talend"}
+{"label":"TOOL","pattern":"elasticsearch"}
+{"label":"TOOL","pattern":"presto"}
+{"label":"TOOL","pattern":"cassandra"}
+{"label":"TOOL","pattern":"hunk"}
+{"label":"TOOL","pattern":"apache kafka"}
+{"label":"TOOL","pattern":"splunk"}
+{"label":"TOOL","pattern":"yarn"}
+{"label":"TOOL","pattern":"oracle"}
+{"label":"LIBRARY","pattern":"Django"}
+{"label":"LIBRARY","pattern":"Cuda"}
+{"label":"LIBRARY","pattern":"ggplot"}
+{"label":"LIBRARY","pattern":"TidyVerse"}
+{"label":"LIBRARY","pattern":"Pillow"}
+{"label":"LIBRARY","pattern":"Matplotlib"}
+{"label":"LIBRARY","pattern":"Numpy"}
+{"label":"LIBRARY","pattern":"OpenCV"}
+{"label":"LIBRARY","pattern":"Keras"}
+{"label":"LIBRARY","pattern":"Theano"}
+{"label":"LIBRARY","pattern":"TensorFlow"}
+{"label":"LIBRARY","pattern":"NLTK"}
+{"label":"LIBRARY","pattern":"Fire"}
+{"label":"LIBRARY","pattern":"Arrow"}
+{"label":"LIBRARY","pattern":"FlashText"}
+{"label":"LIBRARY","pattern":"Scipy"}
+{"label":"LIBRARY","pattern":"SQLAlchemy"}
+{"label":"LIBRARY","pattern":"wxPython"}
+{"label":"LIBRARY","pattern":"Cirq"}
+{"label":"LIBRARY","pattern":"PyTorch"}
+{"label":"LIBRARY","pattern":"Luminoth"}
+{"label":"LIBRARY","pattern":"Delorean"}
+{"label":"LIBRARY","pattern":"BeautifulSoup"}
+{"label":"LIBRARY","pattern":"Bokeh"}
+{"label":"LIBRARY","pattern":"Poetry"}
+{"label":"LIBRARY","pattern":"Gensim"}
+{"label":"LIBRARY","pattern":"Pandas"}
+{"label":"LIBRARY","pattern":"Pytil"}
+{"label":"LIBRARY","pattern":"Scikit Learn "}
+{"label":"LIBRARY","pattern":"Networkx"}
+{"label":"LIBRARY","pattern":"Pygame"}
+{"label":"LIBRARY","pattern":"TextBlob"}
+{"label":"LIBRARY","pattern":"Mahotas"}
+{"label":"LIBRARY","pattern":"LightGBM"}
+{"label":"LIBRARY","pattern":"Spark MLlib "}
+{"label":"LIBRARY","pattern":"PyBrain"}
+{"label":"LIBRARY","pattern":"StatsModels"}
+{"label":"LIBRARY","pattern":"Seaborn"}
+{"label":"LIBRARY","pattern":"Plotly"}
+{"label":"LIBRARY","pattern":"XGBoost"}
+{"label":"LIBRARY","pattern":"Eli5"}
+{"label":"LIBRARY","pattern":"Selenium"}
+{"label":"LIBRARY","pattern":"Scrapy"}
+{"label":"LIBRARY","pattern":"PyGObject"}
+{"label":"LIBRARY","pattern":"PYGLET"}
+{"label":"LIBRARY","pattern":"CuPy"}
+{"label":"LIBRARY","pattern":"Graph-tool "}
+{"label":"LIBRARY","pattern":"QuTip"}
+{"label":"LIBRARY","pattern":"RDFLib"}
+{"label":"LIBRARY","pattern":"PyNLPl"}
+{"label":"LIBRARY","pattern":"Vocabulary"}
+{"label":"LIBRARY","pattern":"spaCy"}
+{"label":"LIBRARY","pattern":"Pillow"}
+{"label":"LIBRARY","pattern":"Matplotlib"}
+{"label":"LIBRARY","pattern":"Numpy"}
+{"label":"LIBRARY","pattern":"OpenCV"}
+{"label":"LIBRARY","pattern":"Keras"}
+{"label":"LIBRARY","pattern":"Theano"}
+{"label":"LIBRARY","pattern":"TensorFlow"}
+{"label":"LIBRARY","pattern":"NLTK"}
+{"label":"LIBRARY","pattern":"Fire"}
+{"label":"LIBRARY","pattern":"Arrow"}
+{"label":"LIBRARY","pattern":"FlashText"}
+{"label":"LIBRARY","pattern":"Scipy"}
+{"label":"LIBRARY","pattern":"SQLAlchemy"}
+{"label":"LIBRARY","pattern":"wxPython"}
+{"label":"LIBRARY","pattern":"Cirq"}
+{"label":"LIBRARY","pattern":"PyTorch"}
+{"label":"LIBRARY","pattern":"Luminoth"}
+{"label":"LIBRARY","pattern":"Delorean"}
+{"label":"LIBRARY","pattern":"BeautifulSoup"}
+{"label":"LIBRARY","pattern":"Bokeh"}
+{"label":"LIBRARY","pattern":"Poetry"}
+{"label":"LIBRARY","pattern":"Gensim"}
+{"label":"LIBRARY","pattern":"Pandas"}
+{"label":"LIBRARY","pattern":"Pytil"}
+{"label":"LIBRARY","pattern":"Scikit Learn "}
+{"label":"LIBRARY","pattern":"Networkx"}
+{"label":"LIBRARY","pattern":"Pygame"}
+{"label":"LIBRARY","pattern":"TextBlob"}
+{"label":"LIBRARY","pattern":"Mahotas"}
+{"label":"LIBRARY","pattern":"LightGBM"}
+{"label":"LIBRARY","pattern":"Spark MLlib "}
+{"label":"LIBRARY","pattern":"PyBrain"}
+{"label":"LIBRARY","pattern":"StatsModels"}
+{"label":"LIBRARY","pattern":"Seaborn"}
+{"label":"LIBRARY","pattern":"Plotly"}
+{"label":"LIBRARY","pattern":"XGBoost"}
+{"label":"LIBRARY","pattern":"Eli5"}
+{"label":"LIBRARY","pattern":"Selenium"}
+{"label":"LIBRARY","pattern":"Scrapy"}
+{"label":"LIBRARY","pattern":"PyGObject"}
+{"label":"LIBRARY","pattern":"PYGLET"}
+{"label":"LIBRARY","pattern":"CuPy"}
+{"label":"LIBRARY","pattern":"Graph-tool "}
+{"label":"LIBRARY","pattern":"QuTip"}
+{"label":"LIBRARY","pattern":"RDFLib"}
+{"label":"LIBRARY","pattern":"PyNLPl"}
+{"label":"LIBRARY","pattern":"Vocabulary"}
+{"label":"LIBRARY","pattern":"spaCy"}
+{"label":"LIBRARY","pattern":"DeepLearning4j"}
+{"label":"LIBRARY","pattern":"Pydot"}
+{"label":"LIBRARY","pattern":"Fast.ai"}
+{"label":"LIBRARY","pattern":"H2O"}
+{"label":"LIBRARY","pattern":"Spark MLib"}
+{"label":"LIBRARY","pattern":"Chaine"}
+{"label":"LIBRARY","pattern":"ggplot2"}
+{"label":"LIBRARY","pattern":"SHAP"}
+{"label":"LIBRARY","pattern":"mlpack"}
+{"label":"LIBRARY","pattern":"Dask"}
+{"label":"LIBRARY","pattern":"H20ai"}
+{"label":"LIBRARY","pattern":"YellowBrick"}
+{"label":"LIBRARY","pattern":"Altair"}
+{"label":"LIBRARY","pattern":"django"}
+{"label":"LIBRARY","pattern":"cuda"}
+{"label":"LIBRARY","pattern":"ggplot"}
+{"label":"LIBRARY","pattern":"tidyverse"}
+{"label":"LIBRARY","pattern":"pillow"}
+{"label":"LIBRARY","pattern":"matplotlib"}
+{"label":"LIBRARY","pattern":"numpy"}
+{"label":"LIBRARY","pattern":"opencv"}
+{"label":"LIBRARY","pattern":"keras"}
+{"label":"LIBRARY","pattern":"theano"}
+{"label":"LIBRARY","pattern":"tensorflow"}
+{"label":"LIBRARY","pattern":"nltk"}
+{"label":"LIBRARY","pattern":"fire"}
+{"label":"LIBRARY","pattern":"arrow"}
+{"label":"LIBRARY","pattern":"flashtext"}
+{"label":"LIBRARY","pattern":"scipy"}
+{"label":"LIBRARY","pattern":"sqlalchemy"}
+{"label":"LIBRARY","pattern":"wxpython"}
+{"label":"LIBRARY","pattern":"cirq"}
+{"label":"LIBRARY","pattern":"pytorch"}
+{"label":"LIBRARY","pattern":"luminoth"}
+{"label":"LIBRARY","pattern":"delorean"}
+{"label":"LIBRARY","pattern":"beautifulsoup"}
+{"label":"LIBRARY","pattern":"bokeh"}
+{"label":"LIBRARY","pattern":"poetry"}
+{"label":"LIBRARY","pattern":"gensim"}
+{"label":"LIBRARY","pattern":"pandas"}
+{"label":"LIBRARY","pattern":"pytil"}
+{"label":"LIBRARY","pattern":"scikit learn "}
+{"label":"LIBRARY","pattern":"networkx"}
+{"label":"LIBRARY","pattern":"pygame"}
+{"label":"LIBRARY","pattern":"textblob"}
+{"label":"LIBRARY","pattern":"mahotas"}
+{"label":"LIBRARY","pattern":"lightgbm"}
+{"label":"LIBRARY","pattern":"spark mllib "}
+{"label":"LIBRARY","pattern":"pybrain"}
+{"label":"LIBRARY","pattern":"statsmodels"}
+{"label":"LIBRARY","pattern":"seaborn"}
+{"label":"LIBRARY","pattern":"plotly"}
+{"label":"LIBRARY","pattern":"xgboost"}
+{"label":"LIBRARY","pattern":"eli5"}
+{"label":"LIBRARY","pattern":"selenium"}
+{"label":"LIBRARY","pattern":"scrapy"}
+{"label":"LIBRARY","pattern":"pygobject"}
+{"label":"LIBRARY","pattern":"pyglet"}
+{"label":"LIBRARY","pattern":"cupy"}
+{"label":"LIBRARY","pattern":"graph-tool "}
+{"label":"LIBRARY","pattern":"qutip"}
+{"label":"LIBRARY","pattern":"rdflib"}
+{"label":"LIBRARY","pattern":"pynlpl"}
+{"label":"LIBRARY","pattern":"vocabulary"}
+{"label":"LIBRARY","pattern":"spacy"}
+{"label":"LIBRARY","pattern":"pillow"}
+{"label":"LIBRARY","pattern":"matplotlib"}
+{"label":"LIBRARY","pattern":"numpy"}
+{"label":"LIBRARY","pattern":"opencv"}
+{"label":"LIBRARY","pattern":"keras"}
+{"label":"LIBRARY","pattern":"theano"}
+{"label":"LIBRARY","pattern":"tensorflow"}
+{"label":"LIBRARY","pattern":"nltk"}
+{"label":"LIBRARY","pattern":"fire"}
+{"label":"LIBRARY","pattern":"arrow"}
+{"label":"LIBRARY","pattern":"flashtext"}
+{"label":"LIBRARY","pattern":"scipy"}
+{"label":"LIBRARY","pattern":"sqlalchemy"}
+{"label":"LIBRARY","pattern":"wxpython"}
+{"label":"LIBRARY","pattern":"cirq"}
+{"label":"LIBRARY","pattern":"pytorch"}
+{"label":"LIBRARY","pattern":"luminoth"}
+{"label":"LIBRARY","pattern":"delorean"}
+{"label":"LIBRARY","pattern":"beautifulsoup"}
+{"label":"LIBRARY","pattern":"bokeh"}
+{"label":"LIBRARY","pattern":"poetry"}
+{"label":"LIBRARY","pattern":"gensim"}
+{"label":"LIBRARY","pattern":"pandas"}
+{"label":"LIBRARY","pattern":"pytil"}
+{"label":"LIBRARY","pattern":"scikit learn "}
+{"label":"LIBRARY","pattern":"networkx"}
+{"label":"LIBRARY","pattern":"pygame"}
+{"label":"LIBRARY","pattern":"textblob"}
+{"label":"LIBRARY","pattern":"mahotas"}
+{"label":"LIBRARY","pattern":"lightgbm"}
+{"label":"LIBRARY","pattern":"spark mllib "}
+{"label":"LIBRARY","pattern":"pybrain"}
+{"label":"LIBRARY","pattern":"statsmodels"}
+{"label":"LIBRARY","pattern":"seaborn"}
+{"label":"LIBRARY","pattern":"plotly"}
+{"label":"LIBRARY","pattern":"xgboost"}
+{"label":"LIBRARY","pattern":"eli5"}
+{"label":"LIBRARY","pattern":"selenium"}
+{"label":"LIBRARY","pattern":"scrapy"}
+{"label":"LIBRARY","pattern":"pygobject"}
+{"label":"LIBRARY","pattern":"pyglet"}
+{"label":"LIBRARY","pattern":"cupy"}
+{"label":"LIBRARY","pattern":"graph-tool "}
+{"label":"LIBRARY","pattern":"qutip"}
+{"label":"LIBRARY","pattern":"rdflib"}
+{"label":"LIBRARY","pattern":"pynlpl"}
+{"label":"LIBRARY","pattern":"vocabulary"}
+{"label":"LIBRARY","pattern":"spacy"}
+{"label":"LIBRARY","pattern":"deeplearning4j"}
+{"label":"LIBRARY","pattern":"pydot"}
+{"label":"LIBRARY","pattern":"fast.ai"}
+{"label":"LIBRARY","pattern":"h2o"}
+{"label":"LIBRARY","pattern":"spark mlib"}
+{"label":"LIBRARY","pattern":"chaine"}
+{"label":"LIBRARY","pattern":"ggplot2"}
+{"label":"LIBRARY","pattern":"shap"}
+{"label":"LIBRARY","pattern":"mlpack"}
+{"label":"LIBRARY","pattern":"dask"}
+{"label":"LIBRARY","pattern":"h20ai"}
+{"label":"LIBRARY","pattern":"yellowbrick"}
+{"label":"LIBRARY","pattern":"altair"}
+{"label":"EDUCATION","pattern":"Bachelor"}
+{"label":"EDUCATION","pattern":"Bsc"}
+{"label":"EDUCATION","pattern":"Master"}
+{"label":"EDUCATION","pattern":"MSc"}
+{"label":"EDUCATION","pattern":"PHD"}
+{"label":"EDUCATION","pattern":"Doctorate"}
+{"label":"EDUCATION","pattern":"bachelor"}
+{"label":"EDUCATION","pattern":"bsc"}
+{"label":"EDUCATION","pattern":"master"}
+{"label":"EDUCATION","pattern":"msc"}
+{"label":"EDUCATION","pattern":"phd"}
+{"label":"EDUCATION","pattern":"doctorate"}
