@@ -17,7 +17,7 @@ and [location_preprocessing](https://github.com/czlee0223/skill_finder/blob/mast
 # Modelling
 Manually finding jobs skills from the data could be very inefficient and troublesome. Thus, natural langangue processing model was built to identify the skills from
 the description.  
-]
+
 Procedures:
 1. NLP information extraction model is built to identify the skills.
 2. This is a named entity recognition model which is based on spacy.
@@ -31,3 +31,5 @@ Detail procedures could be found in notebook [Modelling](https://github.com/czle
 # DataBase
 - Predictions outcome are formatted into dataframe based on the roles.  
 - All dataframes are converted to sql and pushed to Azure database for later front end usage.
+
+Detail procedures could be found in notebook [convert_to_sql](https://github.com/czlee0223/skill_finder/blob/master/notebook/ConvertToSQL.ipynb).
